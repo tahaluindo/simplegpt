@@ -33,7 +33,7 @@ export function ChatForm () {
       className='w-full fixed top-0 bg-black'
     >
       <section className=' m-4 justify-center bg-neutral-900 border-neutral-600 border-2 rounded-lg p-3 pb-7'>
-        <h1 className=' text-center text-3xl pb-3'>CastroBot</h1>
+        <h1 className=' text-center text-3xl pb-3'>Koleksi 🤖👍</h1>
         <form
           onSubmit={handleSubmit}
           onKeyDown={handleKeyDown}
@@ -49,7 +49,7 @@ export function ChatForm () {
               tabIndex={0}
               autoFocus
               defaultValue=''
-              placeholder='Ask me something'
+              placeholder='Silakan Bertanya Kepadaku'
               className='h-[24px] resize-none bg-transparent border-0 outline-none'
             />
             <motion.button
