@@ -5,9 +5,9 @@ function Layout ({ children }) {
   return (
     <>
       <Head>
-        <title className='hola'>Castro Bot</title>
+        <title className='hola'>Koleksi Bot 🔥</title>
         <meta
-          name='description' content='CastroBot is a web application that allows users to chat with
+          name='description' content='KoleksiBot is a web application that allows users to chat with
           an intelligent virtual assistant built with Next.js, a popular web framework.'
         />
       </Head>
